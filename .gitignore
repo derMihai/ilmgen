@@ -1,0 +1,5 @@
+*.log
+*.json
+!test_input.json
+target
+Cargo.lock
